@@ -1,9 +1,9 @@
 package basicsofjava;
 
-public class ArithmaticOperatorDemo {
+public class ArithematicOperatorDemo {
 
 	public static void main(String[] args) {
-		 int a=10 ,b=5;
+		int a=10 ,b=5;
 		 
 		 //addition
 		 
@@ -28,6 +28,7 @@ public class ArithmaticOperatorDemo {
 		//Modulus
 		int remainder =a%b;
 		System.out.println("Modulus : " +remainder);
+
 
 	}
 
