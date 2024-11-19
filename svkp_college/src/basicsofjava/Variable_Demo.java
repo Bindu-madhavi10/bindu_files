@@ -1,5 +1,4 @@
 package basicsofjava;
-
 public class Variable_Demo {
 			int id=10; //instance variable
 			void print()
