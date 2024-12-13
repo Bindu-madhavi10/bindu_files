@@ -1,4 +1,3 @@
-
 package basicsofjava;
 
 class Demo
@@ -28,5 +27,6 @@ public class DefaultValuesChecking {
 		System.out.println(d1.a);
 
 	}
+}
 
 }
